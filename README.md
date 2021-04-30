@@ -1,3 +1,3 @@
-# assets
+# Assets
 
 Assets to My projects
